@@ -32,10 +32,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * http://www.cnblogs.com/plokmju/p/android_exif.html
- * http://blog.5ibc.net/p/5493.html
- */
 public class MainActivity extends Activity implements GeocodeSearch.OnGeocodeSearchListener {
 
     private TextView albumTV;
